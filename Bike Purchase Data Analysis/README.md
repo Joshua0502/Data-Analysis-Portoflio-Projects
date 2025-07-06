@@ -16,8 +16,6 @@ The dashboard provides interactive visual insights into:
 *  Understand how commute patterns influence purchase behavior to guide marketing and product placement.
 *  Measure the impact of education, occupation, and marital status on sales performance.
 *  Optimize marketing and sales efforts by targeting regions and demographics with the highest conversion potential.
-*  Track customer purchasing trends over time to support inventory and demand planning.
-
 
 ## 🧰 Tools Used
 * Microsoft Excel 
