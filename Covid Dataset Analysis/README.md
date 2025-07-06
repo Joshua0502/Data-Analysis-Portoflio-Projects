@@ -47,4 +47,4 @@ This project helped me strengthen my:
 * Run the provided SQL queries step by step.
 * Open the Tableau file (if shared) or replicate using the SQL output.
 ## Snapshot of my Tableau Dashboard:
-https://github.com/Joshua0502/Data-Analysis-Portoflio-Projects/blob/main/Covid%20Dataset%20Analysis/Tableau%20Dashboard.png
+![Dashboard Preview].(https://github.com/Joshua0502/Data-Analysis-Portoflio-Projects/blob/main/Covid%20Dataset%20Analysis/Tableau%20Dashboard.png)
