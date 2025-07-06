@@ -1,7 +1,7 @@
 
 # 🌍 COVID-19 Global Data Analysis Project
 
-This project is a comprehensive SQL-based analysis of global COVID-19 data. It includes detailed insights into infection rates, death percentages, and vaccination progress across different countries and continents. The analysis results are visualized using Tableau for better clarity and storytelling.
+This project is a comprehensive SQL-based analysis of global COVID-19 data. It includes detailed insights into infection rates, death percentages, and vaccination progress across different countries and continents. The analysis results are visualized using Tableau for better clarity and storytelling. Visit my hosted Tableau Project [Here](https://public.tableau.com/views/CovidAnalysisDashboard_17502418062300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Project Overview
 * Infection and death trends over time
