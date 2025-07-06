@@ -46,3 +46,5 @@ This project helped me strengthen my:
 * Load the CovidDeaths and CovidVaccinations tables into your SQL Server.
 * Run the provided SQL queries step by step.
 * Open the Tableau file (if shared) or replicate using the SQL output.
+## Snapshot of my Tableau Dashboard:
+https://github.com/Joshua0502/Data-Analysis-Portoflio-Projects/blob/main/Covid%20Dataset%20Analysis/Tableau%20Dashboard.png
