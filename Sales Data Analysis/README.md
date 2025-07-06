@@ -44,4 +44,4 @@ The dashboard helps answer critical business questions like:
 * Developed insights for business decision-making with visual impact
 
 ## Snapshot of my Tableau Dashboard:
-<img width="1499" height="999" alt="Image" src="https://github.com/user-attachments/assets/6b451922-2b85-4ce8-819c-082f754dcdba" />
+<img width="1499" height="999" alt="Image" src="https://github.com/user-attachments/assets/c3cc211b-a7c2-45e3-ba32-f9086c3cb7da" />
