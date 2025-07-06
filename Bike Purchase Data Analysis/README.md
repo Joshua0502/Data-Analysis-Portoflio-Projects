@@ -37,3 +37,7 @@ This project helped reinforce:
 * Open the Excel workbook.
 * Use slicers to filter by region, marital status, education, and more.
 * Explore how different segments influence bike purchase decisions.
+## Dashboard Snapshots:
+<img width="1686" height="856" alt="Image" src="https://github.com/user-attachments/assets/19350926-307b-45cf-92d7-b7244a795aed" />
+
+<img width="1466" height="830" alt="Image" src="https://github.com/user-attachments/assets/f25a56cf-e023-456a-8a2b-593a85f9c6c2" />
