@@ -1,0 +1,13 @@
+<script src="https://public.tableau.com/javascripts/api/tableau-2.js"></script>
+<div id="tableauViz"></div>
+<script>
+  var placeholderDiv = document.getElementById("tableauViz");
+  var url = "https://public.tableau.com/views/SalesDashboard_17517338283360/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"; // Replace with your dashboard URL
+  var options = {
+    width: "800px",
+    height: "600px",
+    hideTabs: true,
+    hideToolbar: true,
+  };
+  var viz = new tableau.Viz(placeholderDiv, url, options);
+</script>
