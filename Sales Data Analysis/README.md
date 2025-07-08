@@ -1,5 +1,5 @@
 # 📊 Sales Data Analysis Dashboard
-An interactive and visually engaging Sales Dashboard built using Tableau to explore key business metrics such as sales, profit, and quantity sold across different product categories, customers, and locations. 
+An interactive and visually engaging Sales Dashboard built using Tableau to explore key business metrics such as sales, profit, and quantity sold across different product categories, customers, and locations. Visit my hosted Tableau Project
  [Here](https://public.tableau.com/views/SalesDashboard_17517338283360/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🧩 Project Overview
